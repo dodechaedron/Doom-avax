@@ -131,3 +131,66 @@
   font-display: swap;
   src: url(s/luckiestguy/v22/_gP_1RrxsjcxVyin9l9n_j2RSg.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Gruppo';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css2?family=Gruppo&display=swap) format('truetype');
+}
+@font-face {
+  font-family: 'Gruppo';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css2?family=Gruppo&display=swap) format('truetype');
+}
+@font-face {
+  font-family: 'Gruppo';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css2?family=Gruppo&display=swap) format('truetype');
+}
+@font-face {
+  font-family: 'Gruppo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css2?family=Gruppo&display=swap) format('truetype');
+}
+@font-face {
+  font-family: 'Gruppo';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css2?family=Gruppo&display=swap) format('truetype');
+}
+@font-face {
+  font-family: 'Gruppo';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css2?family=Gruppo&display=swap) format('truetype');
+}
+@font-face {
+  font-family: 'Gruppo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css2?family=Gruppo&display=swap) format('truetype');
+}
+@font-face {
+  font-family: 'Gruppo';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css2?family=Gruppo&display=swap) format('truetype');
+}
+@font-face {
+  font-family: 'Gruppo';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.googleapis.com/css2?family=Gruppo&display=swap) format('truetype');
+}

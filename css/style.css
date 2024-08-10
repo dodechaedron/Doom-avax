@@ -1,12 +1,19 @@
 
-@import url('../css2');
-body {
+/* @import url('../css2'); */
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+/* body {
     font-family: "Lexend", sans-serif;
     font-size: 16px;
     font-weight: 400;
     background: #000;
     color: #fff;
-}
+} */
+body {
+    font-family: "Gruppo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 
 a,
 button {
@@ -426,7 +433,7 @@ nav {
     text-shadow: 3px 5px 0px #000;
     -webkit-text-stroke-width: 3;
     -webkit-text-stroke-color: #000;
-    font-family: "Luckiest Guy";
+    font-family: "Gruppo";
     font-size: 110px;
     font-style: normal;
     font-weight: 400;
@@ -439,7 +446,7 @@ nav {
 .hero-area p {
     color: var(--Secondary, #EBEBEB);
     text-align: center;
-    font-family: Lexend;
+    font-family: Gruppo;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -513,7 +520,7 @@ nav {
 
 .about-left h3 {
     color: #ffffff;
-    font-family: Lexend;
+    font-family: Gruppo;
     font-size: 30px;
     font-style: normal;
     font-weight: 600;
@@ -527,7 +534,7 @@ nav {
     text-shadow: 3px 4px 0px #000;
     -webkit-text-stroke-width: 2;
     -webkit-text-stroke-color: #000;
-    font-family: "Luckiest Guy";
+    font-family: "Gruppo";
     font-size: 60px;
     font-style: normal;
     font-weight: 400;
@@ -542,7 +549,7 @@ nav {
 }
 .about-left p {
     color: #ffffff;
-    font-family: Lexend;
+    font-family: Gruppo;
     font-size: 22px;
     font-style: normal;
     font-weight: 300;
@@ -574,7 +581,7 @@ nav {
 }
 .partners-title h2{
     color: #FFF;
-    font-family: Lexend;
+    font-family: Gruppo;
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -611,7 +618,7 @@ nav {
     -webkit-text-stroke-width: 2;
     -webkit-text-stroke-color: #000;
     text-align: center;
-    font-family: "Luckiest Guy";
+    font-family: "Gruppo";
     font-size: 60px;
     font-style: normal;
     font-weight: 600;
@@ -624,7 +631,7 @@ nav {
 .tokenomic-title p {
     color: #FFF;
     text-align: center;
-    font-family: Lexend;
+    font-family: Gruppo;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -664,7 +671,7 @@ nav {
 
 .token-left-item h2{
     color: #ee2727;
-    font-family: "Luckiest Guy";
+    font-family: "Gruppo";
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -697,7 +704,7 @@ nav {
 }
 .Token_Address p{
     color: #ee2727;
-    font-family: "Luckiest Guy";
+    font-family: "Gruppo";
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -721,7 +728,7 @@ nav {
 }
 .token-right h3{
     color: #ee2727;
-    font-family: "Luckiest Guy";
+    font-family: "Gruppo";
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -771,7 +778,7 @@ nav {
 }
 .token-right ul li:first-of-type{
     color: #FFE0BB;
-    font-family: Lexend;
+    font-family: Gruppo;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -779,7 +786,7 @@ nav {
 }
 .token-right ul li:last-of-type{
     color: #FFE0BB;
-    font-family: "Luckiest Guy";
+    font-family: "Gruppo";
     font-size: 30px;
     font-style: normal;
     font-weight: 400;
@@ -813,7 +820,7 @@ body{
     text-shadow: 3px 4px 0px #000;
     -webkit-text-stroke-width: 2;
     -webkit-text-stroke-color: #000;
-    font-family: "Luckiest Guy";
+    font-family: "Gruppo";
     font-size: 60px;
     font-style: normal;
     font-weight: 600;
@@ -849,7 +856,7 @@ body{
 
 .roadm-t h2 {
     color: #ee2727;
-    font-family: "Luckiest Guy";
+    font-family: "Gruppo";
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -911,7 +918,7 @@ footer {
     text-shadow: 3px 4px 0px #000;
     -webkit-text-stroke-width: 2;
     -webkit-text-stroke-color: #000;
-    font-family: "Luckiest Guy";
+    font-family: "Gruppo";
     font-size: 60px;
     font-style: normal;
     font-weight: 600;
@@ -921,7 +928,7 @@ footer {
 }
 .footer-left-inner h2{
     color: #FFF;
-    font-family: Lexend;
+    font-family: Gruppo;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -948,7 +955,7 @@ footer {
   .coppyright-text p{
     color: #000;
     text-align: center;
-    font-family: Inter;
+    font-family: Gruppo;
     font-size: 14px;
     font-style: normal;
     font-weight: 700;
